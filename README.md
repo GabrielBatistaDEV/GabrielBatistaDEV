@@ -1,4 +1,4 @@
-## Eae! Sou o Gabriel Batista Gomes
+## Eae! Sou o Gabriel Batista :D
 - 🔭 Estou em busca de experiências profissionais! :)
 - 🌱 Estudo linguagens C e JS inicialmente.
 - ⚡ Curiosidades: Sou apaixonado por jogos desde criança, então desde sempre tive curiosidade nessa área de tecnologia 
