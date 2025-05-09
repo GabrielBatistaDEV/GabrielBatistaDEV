@@ -14,5 +14,5 @@
 ##    
 
 <div align="center">
-  <img alaing=center alt="aigis" src="https://tenor.com/pt-BR/view/hanako-kun-gif-25492843"/>
+  <img alaing=center alt="aigis" src="![image](https://github.com/user-attachments/assets/9d565a92-a920-48d4-9bd6-9d9af2da163b)"/>
 </div>
