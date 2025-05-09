@@ -14,5 +14,5 @@
 ##    
 
 <div align="center">
-  <img alaing=center alt="aigis" src="![image](https://github.com/user-attachments/assets/9d565a92-a920-48d4-9bd6-9d9af2da163b)"/>
+  <img alaing=center alt="aigis" src="https://media1.tenor.com/m/1OAE51QysIEAAAAC/hanako-kun.gif"/>
 </div>
